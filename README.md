@@ -15,4 +15,4 @@ https://en.wikipedia.org/wiki/Classic_of_Poetry<br>
 2、诗经楚辞鉴赏辞典 (周啸天 | 四川辞书出版社)<br>
 3、[古诗词网.诗经](http://www.gushiwen.org/guwen/shijing.aspx)<br>
 
-![诗经.儿童经典诵读](/material/诗经.儿童经典诵读.PNG)
+![诗经.儿童经典诵读](/material/shijing.png)
